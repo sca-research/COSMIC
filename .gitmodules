@@ -1,0 +1,3 @@
+[submodule "Virginia Tech"]
+	path = Masked-AES-Implementation
+	url = https://github.com/gs1989/Masked-AES-Implementation
