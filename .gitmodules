@@ -1,3 +1,6 @@
 [submodule "VirginiaTech"]
 	path = Masked-AES-Implementation
 	url = https://github.com/gs1989/Masked-AES-Implementation
+[submodule "ASM_MaskedAES"]
+	path = ASM_MaskedAES
+	url = git://github.com/bristol-sca/ASM_MaskedAES.git
