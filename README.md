@@ -11,10 +11,10 @@
 
 
 
-[//]: # ## Preformance \& Cost
+[//]: <>( ## Preformance \& Cost)
 
-[//]: #|     Name (Author)      | Randomness per block| Code size| Cycles/Executing time | RAM usage|
-[//]: #| ---------------------- | -------------- | -------------------- |---------------- |  ---------------- |
-[//]: #| ASM_MaskedAES (bristol-sca)  | 6B  | ??? | ??? | ??? |
-[//]: #| Byte-Masked-AES (Virginia Tech)  | 6B | ???  | ??? | ??? | 
-[//]: #| bitsliced-masked-aes (Virginia Tech)  | 768B (pseudo random)| ???  | ??? | ??? | 
+[//]: <>( |     Name (Author)      | Randomness per block| Code size| Cycles/Executing time | RAM usage|)
+[//]: <>( | ---------------------- | -------------- | -------------------- |---------------- |  ---------------- |)
+[//]: <>( | ASM_MaskedAES (bristol-sca)  | 6B  | ??? | ??? | ??? |)
+[//]: <>( | Byte-Masked-AES (Virginia Tech)  | 6B | ???  | ??? | ??? |) 
+[//]: <>( | bitsliced-masked-aes (Virginia Tech)  | 768B (pseudo random)| ???  | ??? | ??? |) 
